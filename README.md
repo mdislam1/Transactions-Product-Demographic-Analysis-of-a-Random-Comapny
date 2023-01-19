@@ -1,6 +1,6 @@
-# Transactions-and-Demographic-Analysis-of-a-Random-Comapny
+# Transactions-Product-Demographic-Analysis-of-a-Random-Comapny
 
-* The script performs data analysis on a dataset of transactions and demographic information
+* The script performs data analysis on a dataset of transactions, product, and demographic information 
 * It uses the pandas library to read in and manipulate the data
 * The transactions data is filtered and converted to appropriate integer types and a date column is added
 * The script performs time-based analysis on the transactions data, including:
